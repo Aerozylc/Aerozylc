@@ -38,7 +38,7 @@
 
 <li><b>Name :</b> Nazril</li>
 <li><b>Gender :</b> Male</li>
-<li><b>Hobbys :</b> IoT, Anime, Web Development</li>
+<li><b>Hobbies :</b> Programing, Electro, Anime</li>
 
 
 
